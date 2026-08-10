@@ -144,11 +144,11 @@ The project helps identify:
 The objective of this project is to demonstrate practical Data Analyst skills by converting raw e-commerce data into meaningful business insights using **SQL for analysis** and **Power BI for visualization and reporting**.
 
 ## 📁 Repository Contents
-SQL/ – PostgreSQL queries and analysis
-PowerBI/ – Power BI dashboard file
-Dataset/ – Dataset used for the analysis
-Screenshots/ – Dashboard preview images
-README.md – Project documentation
+* SQL/ – PostgreSQL queries and analysis
+* PowerBI/ – Power BI dashboard file
+* Dataset/ – Dataset used for the analysis
+* Screenshots/ – Dashboard preview images
+* README.md – Project documentation
 
 ---
 
