@@ -150,4 +150,4 @@ The objective of this project is to demonstrate practical Data Analyst skills by
 
 
 
-Aspiring Data Analyst | SQL | Power BI | Excel | Python
+
